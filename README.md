@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Phillips
 - 👀 I’m interested in ... Design
-- 🌱 I’m currently learning ... Go
+- 🌱 I’m currently learning ... Backend Development
 - 💞️ I’m looking to collaborate on ... Frontend Projects
 
 <!---
